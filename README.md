@@ -1,4 +1,3 @@
-# Coffee-Machine-Program
 # ☕ Coffee Machine Project
 
 Welcome to the **Coffee Machine** project! This Python-based program simulates a coffee vending machine that allows users to order coffee, process payments, and manage ingredient resources.
